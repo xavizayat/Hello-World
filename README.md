@@ -1,2 +1,4 @@
 # Hello-World
-Simple hello world program
+Howdy neighbors. 
+Greetings gentile.
+Hello World.
